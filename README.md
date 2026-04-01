@@ -1,2 +1,2 @@
-# heroesofthestormfebruary29patchnotes
-Just a for fun HoTS fake patch notes
+# HoTSFakePatchNotes
+Just a for-fun HoTS Patch Notes Mockup-ish
